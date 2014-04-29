@@ -1,4 +1,0 @@
-zhongwencool.github.com
-=======================
-
-thinks
