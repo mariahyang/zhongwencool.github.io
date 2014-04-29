@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives: 2014/4 | 依然珍惜</title>
+  <title>Erlang[0]gen_server:reply | 依然珍惜</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta content="website" property="og:type">
-<meta content="依然珍惜" property="og:title">
-<meta content="http://yoursite.com/archives/2014/04/" property="og:url">
+<meta content="Erlang[0]gen_server:reply" property="og:title">
+<meta content="http://yoursite.com/erlang[0]gen_serverreply/index.html" property="og:url">
 <meta property="og:image">
 <meta content="依然珍惜" property="og:site_name">
 <meta content="Happy is the man who is living by his hobby." property="og:description">
@@ -61,53 +61,10 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-gen_server_reply" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2014/04/29/gen_server_reply/" class="article-date">
-  <time datetime="2014-04-29T13:45:13.000Z" itemprop="datePublished">4月 29 2014</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>title: <strong>gen_server:reply/2</strong><br>date: 2014-04-29 21:45:51<br>category:erlang </p>
-<h2 id="tags:otp_">tags:otp </h2>
-<h2 id="gen_server:reply/2">gen_server:reply/2</h2>
-<pre><code>reply<span class="function"><span class="params">(Client, Reply)</span> -&gt;</span> Result
-<span class="attribute">Types</span>:
-Client - see below
-Reply = term()
-Result = term()
-</code></pre><p> This function can be used by a gen_server to explicitly send a reply to a client that called call/2,3 or multi_call/2,3,4, when the reply cannot be defined in the return value of Module:handle_call/3.<br> Client must be the From argument provided to the callback function. Reply is an arbitrary term, which will be given back to the client as the return value of call/2,3 or multi_call/2,3,4.<br> The return value Result is not further defined, and should always be ignored.</p>
-<p><img src="http://zhongwencool.qiniudn.com/reply1.png" alt=""><br>Result :</p>
-<p><img src="http://zhongwencool.qiniudn.com/reply2.png" alt=""></p>
-<p>if exchange the timer:sleep(3000) and timer:sleep(1000)  the Result will be “gen_server:reply”</p>
-<p>so the from process only receive the fast reply ,but the gen_server will execute both!</p>
-<p>Why?<br>gen_server:reply/2 design as :</p>
-<p><img src="http://zhongwencool.qiniudn.com/reply3.png" alt=""></p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2014/04/29/gen_server_reply/" data-id="3pm0vd0oc6vjoce5" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-  
-    <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2014/04/29/hello-world/" class="article-date">
-  <time datetime="2014-04-29T11:45:05.000Z" itemprop="datePublished">4月 29 2014</time>
+    <a href="/erlang[0]gen_serverreply/index.html" class="article-date">
+  <time datetime="2014-04-29T13:53:03.000Z" itemprop="datePublished">4月 29 2014</time>
 </a>
     
   </div>
@@ -117,8 +74,8 @@ Result = term()
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2014/04/29/hello-world/">Hello World</a>
+    <h1 class="article-title" itemprop="name">
+      Erlang[0]gen_server:reply
     </h1>
   
 
@@ -126,22 +83,20 @@ Result = term()
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>Welcome to <a href="http://hexo.io" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs" target="_blank">documentation</a> to learn how to use.</p>
-
+        
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2014/04/29/hello-world/" data-id="xpu29sdfpcqpfdjz" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/erlang[0]gen_serverreply/index.html" data-id="nnrqzckx382e0jcb" class="article-share-link">Share</a>
       
       
     </footer>
   </div>
   
+    
+  
 </article>
 
-
-  
-  
 </section>
         
           <aside id="sidebar">
