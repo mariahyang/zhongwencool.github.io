@@ -1,8 +1,7 @@
-title: **gen_server:reply/2**
-date: 2014-04-29 21:45:51
-category:erlang 
-tags:otp 
--------------------------------------
+title: "[erlang00]:gen_server:reply/2"
+date: 2014-04-30 19:51:05
+tags: erlang
+---
 
 ##gen_server:reply/2##
 
@@ -16,6 +15,9 @@ tags:otp
  Client must be the From argument provided to the callback function. Reply is an arbitrary term, which will be given back to the client as the return value of call/2,3 or multi_call/2,3,4.
  The return value Result is not further defined, and should always be ignored.
 
+    以上是摘要
+    <!--more-->
+    以下是余下全文
 ![](http://zhongwencool.qiniudn.com/reply1.png)
 Result :
 

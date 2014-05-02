@@ -3,14 +3,21 @@
 <head>
   <meta charset="utf-8">
   
-  <title>依然珍惜</title>
+  <title>[SIP00]: SIP Learning | 依然珍惜</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta content="website" property="og:type">
-<meta content="依然珍惜" property="og:title">
-<meta content="http://yoursite.com/" property="og:url">
-<meta property="og:image">
+  <meta content="article" property="og:type">
+<meta content="[SIP00]: SIP Learning" property="og:title">
+<meta content="http://yoursite.com/2014/04/29/sip/" property="og:url">
+<meta content="http://www.siptutorial.net/SIP/images/example.gif" property="og:image">
 <meta content="依然珍惜" property="og:site_name">
-<meta content="Happy is the man who is living by his hobby." property="og:description">
+<meta content="SIP
+  Session Initiation Protocol
+  create, manage and terminate sessions in an IP based network.
+SIP 可以干什么？
+sip 只用于建立,修改和结束的sessions，**4个主要目的**：
+
+建立用户的location信息：把用户名和地址绑定起来：register
+提供一个共同准则的Session" property="og:description">
 <meta content="summary" name="twitter:card">
   
     <link rel="alternative" href="/atom.xml" title="依然珍惜" type="application/atom+xml">
@@ -61,63 +68,7 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-gen_server_reply" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2014/04/30/gen_server_reply/" class="article-date">
-  <time datetime="2014-04-30T11:51:05.000Z" itemprop="datePublished">4月 30 2014</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2014/04/30/gen_server_reply/">[erlang00]:gen_server:reply/2</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <h2 id="gen_server:reply/2">gen_server:reply/2</h2>
-<pre><code>reply<span class="function"><span class="params">(Client, Reply)</span> -&gt;</span> Result
-<span class="attribute">Types</span>:
-Client - see below
-Reply = term()
-Result = term()
-</code></pre><p> This function can be used by a gen_server to explicitly send a reply to a client that called call/2,3 or multi_call/2,3,4, when the reply cannot be defined in the return value of Module:handle_call/3.<br> Client must be the From argument provided to the callback function. Reply is an arbitrary term, which will be given back to the client as the return value of call/2,3 or multi_call/2,3,4.<br> The return value Result is not further defined, and should always be ignored.</p>
-<pre><code>以上是摘要
-<span class="comment">&lt;!--more--&gt;</span>
-以下是余下全文
-</code></pre><p><img src="http://zhongwencool.qiniudn.com/reply1.png" alt=""><br>Result :</p>
-<p><img src="http://zhongwencool.qiniudn.com/reply2.png" alt=""></p>
-<p>if exchange the timer:sleep(3000) and timer:sleep(1000)  the Result will be “gen_server:reply”</p>
-<p>so the from process only receive the fast reply ,but the gen_server will execute both!</p>
-<p>Why?<br>gen_server:reply/2 design as :</p>
-<p><img src="http://zhongwencool.qiniudn.com/reply3.png" alt=""></p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2014/04/30/gen_server_reply/" data-id="l9tkyd7s2frbflh6" class="article-share-link">Share</a>
-      
-      
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/erlang/">erlang</a></li></ul>
-
-    </footer>
-  </div>
-  
-</article>
-
-
-  
-    <article id="post-sip" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-sip" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2014/04/29/sip/" class="article-date">
   <time datetime="2014-04-29T11:50:05.000Z" itemprop="datePublished">4月 29 2014</time>
@@ -130,8 +81,8 @@ Result = term()
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2014/04/29/sip/">[SIP00]: SIP Learning</a>
+    <h1 class="article-title" itemprop="name">
+      [SIP00]: SIP Learning
     </h1>
   
 
@@ -331,48 +282,29 @@ Content-Length: <span class="number">131</span>
     </footer>
   </div>
   
-</article>
-
-
+    
+<nav id="article-nav">
   
-    <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2014/04/29/hello-world/" class="article-date">
-  <time datetime="2014-04-29T11:45:05.000Z" itemprop="datePublished">4月 29 2014</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
+    <a href="/2014/04/30/gen_server_reply/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
         
+          [erlang00]:gen_server:reply/2
+        
+      </div>
+    </a>
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2014/04/29/hello-world/">Hello World</a>
-    </h1>
   
+    <a href="/2014/04/29/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Hello World</div>
+    </a>
+  
+</nav>
 
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>Welcome …..</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2014/04/29/hello-world/" data-id="7yftodfoev31qohb" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
   
 </article>
 
-
-  
-  
 </section>
         
           <aside id="sidebar">
