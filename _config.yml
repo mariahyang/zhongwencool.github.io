@@ -51,7 +51,7 @@ tag_map:
 ## 0: Fully Disable
 archive: 1
 category: 1
-tag: 1
+tag: 2
 
 # Server
 ## Hexo uses Connect as a server
