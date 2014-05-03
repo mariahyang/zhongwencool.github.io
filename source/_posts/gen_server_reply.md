@@ -15,9 +15,6 @@ tags: erlang
  Client must be the From argument provided to the callback function. Reply is an arbitrary term, which will be given back to the client as the return value of call/2,3 or multi_call/2,3,4.
  The return value Result is not further defined, and should always be ignored.
 
-    以上是摘要
-    <!--more-->
-    以下是余下全文
 ![](http://zhongwencool.qiniudn.com/reply1.png)
 Result :
 
