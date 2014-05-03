@@ -1,0 +1,1122 @@
+date: 2014-05-03 10:15:14.460
+argv: node C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\bin\hexo g
+os: Windows_NT 6.1.7601 win32 x64
+version:
+  hexo: 2.5.6
+  http_parser: 1.0
+  node: 0.10.26
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.25
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1e
+---
+
+[debug] 10:15:07.869 Config file loaded
+[debug] 10:15:07.878 Version info checked successfully
+[debug] 10:15:08.144 Script load successfully: fancybox.js
+[debug] 10:15:08.661 Processed: Gruntfile.js
+[debug] 10:15:08.661 Processed: LICENSE
+[debug] 10:15:08.662 Processed: README.md
+[debug] 10:15:08.662 Processed: package.json
+[debug] 10:15:08.664 Processed: scripts/fancybox.js
+[debug] 10:15:08.783 Processed: source/css/_extend.styl
+[debug] 10:15:08.784 Processed: source/css/_variables.styl
+[debug] 10:15:08.785 Processed: source/css/_partial/about-me.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/archive.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/article.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/bottom-btn.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/calendar.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/comment.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/footer.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/header.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/highlight.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/mobile.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/scrollbar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-aside.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-bottom.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/toc.styl
+[debug] 10:15:08.790 Processed: source/css/_util/grid.styl
+[debug] 10:15:08.790 Processed: source/css/_util/mixin.styl
+[debug] 10:15:08.859 Processed: source/404.html
+[debug] 10:15:08.862 Processed: source/images/github.jpg
+[debug] 10:15:08.864 Processed: source/js/gotop.js
+[debug] 10:15:08.871 Processed: source/js/jquery.min.js
+[debug] 10:15:08.873 Processed: source/js/script.js
+[debug] 10:15:08.876 Processed: source/js/toc_aside_toggle.js
+[debug] 10:15:08.879 Processed: source/css/style.styl
+[debug] 10:15:08.881 Processed: source/css/fonts/FontAwesome.otf
+[debug] 10:15:08.883 Processed: source/css/fonts/fontawesome-webfont.eot
+[debug] 10:15:08.926 Processed: source/css/fonts/fontawesome-webfont.svg
+[debug] 10:15:08.930 Processed: source/css/fonts/fontawesome-webfont.ttf
+[debug] 10:15:08.933 Processed: source/css/fonts/fontawesome-webfont.woff
+[debug] 10:15:08.936 Processed: source/css/images/banner.jpg
+[debug] 10:15:08.938 Processed: source/css/images/bg.png
+[debug] 10:15:08.942 Processed: source/fancybox/blank.gif
+[debug] 10:15:08.945 Processed: source/fancybox/fancybox_loading.gif
+[debug] 10:15:08.949 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 10:15:08.952 Processed: source/fancybox/fancybox_overlay.png
+[debug] 10:15:08.955 Processed: source/fancybox/fancybox_sprite.png
+[debug] 10:15:08.994 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 10:15:08.998 Processed: source/fancybox/jquery.fancybox.css
+[debug] 10:15:09.002 Processed: source/fancybox/jquery.fancybox.js
+[debug] 10:15:09.007 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 10:15:09.011 Processed: source/fancybox/helpers/fancybox_buttons.png
+[debug] 10:15:09.015 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
+[debug] 10:15:09.018 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
+[debug] 10:15:09.022 Processed: source/fancybox/helpers/jquery.fancybox-media.js
+[debug] 10:15:09.026 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
+[debug] 10:15:09.073 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
+[debug] 10:15:09.214 Theme config loaded
+[debug] 10:15:09.214 Processed: _config.yml
+[debug] 10:15:09.217 Processed: languages/default.yml
+[debug] 10:15:09.712 Processed: languages/zh-CN.yml
+[debug] 10:15:09.716 Processed: languages/zh-TW.yml
+[debug] 10:15:10.143 Processed: about/index.md
+[debug] 10:15:10.145 Processed: layout/category.ejs
+[debug] 10:15:10.145 Processed: layout/archive.ejs
+[debug] 10:15:10.146 Processed: layout/index.ejs
+[debug] 10:15:10.147 Processed: layout/layout.ejs
+[debug] 10:15:10.148 Processed: layout/page.ejs
+[debug] 10:15:10.148 Processed: layout/post.ejs
+[debug] 10:15:10.149 Processed: layout/tag.ejs
+[debug] 10:15:10.149 Processed: layout/_widget/about_me.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/calendar.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/archive.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/duoshuo_recent_comments.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/links.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/tag.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/recent_posts.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/tagcloud.ejs
+[debug] 10:15:10.152 Processed: layout/_partial/archive-post.ejs
+[debug] 10:15:10.153 Processed: layout/_partial/after-footer.ejs
+[debug] 10:15:10.155 Processed: layout/_widget/category.ejs
+[debug] 10:15:10.156 Processed: layout/_partial/article.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/archive.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/footer.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/bottom-btn.ejs
+[debug] 10:15:10.159 Processed: layout/_partial/google-analytics.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/head.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/header.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/mobile-nav.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/sidebar.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/category.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/date.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/nav.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/gallery.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/tag.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/title.ejs
+[debug] 10:15:10.163 Processed: _posts/gen_server_reply.md
+[debug] 10:15:10.163 Processed: _posts/hello-world.md
+[debug] 10:15:10.164 Processed: _posts/sip.md
+[info] 10:15:10.257 Files loaded in 2.105s
+[debug] 10:15:10.279 Public folder not exists. No need to clear public folder.
+[debug] 10:15:10.282 Render archive: archives/
+[debug] 10:15:10.294 Render archive: archives/2014/
+[debug] 10:15:10.295 Cache saved
+[debug] 10:15:10.295 Render archive: archives/2014/04/
+[debug] 10:15:10.296 Render index: 
+[debug] 10:15:10.297 Render page: about/index.html
+[debug] 10:15:10.300 Render post: 2014/04/30/gen_server_reply/
+[debug] 10:15:10.301 Render post: 2014/04/29/sip/
+[debug] 10:15:10.303 Render post: 2014/04/29/hello-world/
+[debug] 10:15:10.304 Render tag: tags/erlang/
+[debug] 10:15:10.305 Render tag: tags/SIP/
+[error] 10:15:14.071 HexoError: Render failed: index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.129 HexoError: Render failed: about/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.184 HexoError: Render failed: 2014/04/30/gen_server_reply/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.234 HexoError: Render failed: 2014/04/29/sip/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.304 HexoError: Render failed: 2014/04/29/hello-world/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.379 HexoError: Render failed: tags/erlang/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.433 HexoError: Render failed: tags/SIP/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+[debug] 10:15:07.869 Config file loaded
+[debug] 10:15:07.878 Version info checked successfully
+[debug] 10:15:08.144 Script load successfully: fancybox.js
+[debug] 10:15:08.661 Processed: Gruntfile.js
+[debug] 10:15:08.661 Processed: LICENSE
+[debug] 10:15:08.662 Processed: README.md
+[debug] 10:15:08.662 Processed: package.json
+[debug] 10:15:08.664 Processed: scripts/fancybox.js
+[debug] 10:15:08.783 Processed: source/css/_extend.styl
+[debug] 10:15:08.784 Processed: source/css/_variables.styl
+[debug] 10:15:08.785 Processed: source/css/_partial/about-me.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/archive.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/article.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/bottom-btn.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/calendar.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/comment.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/footer.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/header.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/highlight.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/mobile.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/scrollbar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-aside.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-bottom.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/toc.styl
+[debug] 10:15:08.790 Processed: source/css/_util/grid.styl
+[debug] 10:15:08.790 Processed: source/css/_util/mixin.styl
+[debug] 10:15:08.859 Processed: source/404.html
+[debug] 10:15:08.862 Processed: source/images/github.jpg
+[debug] 10:15:08.864 Processed: source/js/gotop.js
+[debug] 10:15:08.871 Processed: source/js/jquery.min.js
+[debug] 10:15:08.873 Processed: source/js/script.js
+[debug] 10:15:08.876 Processed: source/js/toc_aside_toggle.js
+[debug] 10:15:08.879 Processed: source/css/style.styl
+[debug] 10:15:08.881 Processed: source/css/fonts/FontAwesome.otf
+[debug] 10:15:08.883 Processed: source/css/fonts/fontawesome-webfont.eot
+[debug] 10:15:08.926 Processed: source/css/fonts/fontawesome-webfont.svg
+[debug] 10:15:08.930 Processed: source/css/fonts/fontawesome-webfont.ttf
+[debug] 10:15:08.933 Processed: source/css/fonts/fontawesome-webfont.woff
+[debug] 10:15:08.936 Processed: source/css/images/banner.jpg
+[debug] 10:15:08.938 Processed: source/css/images/bg.png
+[debug] 10:15:08.942 Processed: source/fancybox/blank.gif
+[debug] 10:15:08.945 Processed: source/fancybox/fancybox_loading.gif
+[debug] 10:15:08.949 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 10:15:08.952 Processed: source/fancybox/fancybox_overlay.png
+[debug] 10:15:08.955 Processed: source/fancybox/fancybox_sprite.png
+[debug] 10:15:08.994 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 10:15:08.998 Processed: source/fancybox/jquery.fancybox.css
+[debug] 10:15:09.002 Processed: source/fancybox/jquery.fancybox.js
+[debug] 10:15:09.007 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 10:15:09.011 Processed: source/fancybox/helpers/fancybox_buttons.png
+[debug] 10:15:09.015 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
+[debug] 10:15:09.018 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
+[debug] 10:15:09.022 Processed: source/fancybox/helpers/jquery.fancybox-media.js
+[debug] 10:15:09.026 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
+[debug] 10:15:09.073 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
+[debug] 10:15:09.214 Theme config loaded
+[debug] 10:15:09.214 Processed: _config.yml
+[debug] 10:15:09.217 Processed: languages/default.yml
+[debug] 10:15:09.712 Processed: languages/zh-CN.yml
+[debug] 10:15:09.716 Processed: languages/zh-TW.yml
+[debug] 10:15:10.143 Processed: about/index.md
+[debug] 10:15:10.145 Processed: layout/category.ejs
+[debug] 10:15:10.145 Processed: layout/archive.ejs
+[debug] 10:15:10.146 Processed: layout/index.ejs
+[debug] 10:15:10.147 Processed: layout/layout.ejs
+[debug] 10:15:10.148 Processed: layout/page.ejs
+[debug] 10:15:10.148 Processed: layout/post.ejs
+[debug] 10:15:10.149 Processed: layout/tag.ejs
+[debug] 10:15:10.149 Processed: layout/_widget/about_me.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/calendar.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/archive.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/duoshuo_recent_comments.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/links.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/tag.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/recent_posts.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/tagcloud.ejs
+[debug] 10:15:10.152 Processed: layout/_partial/archive-post.ejs
+[debug] 10:15:10.153 Processed: layout/_partial/after-footer.ejs
+[debug] 10:15:10.155 Processed: layout/_widget/category.ejs
+[debug] 10:15:10.156 Processed: layout/_partial/article.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/archive.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/footer.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/bottom-btn.ejs
+[debug] 10:15:10.159 Processed: layout/_partial/google-analytics.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/head.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/header.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/mobile-nav.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/sidebar.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/category.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/date.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/nav.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/gallery.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/tag.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/title.ejs
+[debug] 10:15:10.163 Processed: _posts/gen_server_reply.md
+[debug] 10:15:10.163 Processed: _posts/hello-world.md
+[debug] 10:15:10.164 Processed: _posts/sip.md
+[info] 10:15:10.257 Files loaded in 2.105s
+[debug] 10:15:10.279 Public folder not exists. No need to clear public folder.
+[debug] 10:15:10.282 Render archive: archives/
+[debug] 10:15:10.294 Render archive: archives/2014/
+[debug] 10:15:10.295 Cache saved
+[debug] 10:15:10.295 Render archive: archives/2014/04/
+[debug] 10:15:10.296 Render index: 
+[debug] 10:15:10.297 Render page: about/index.html
+[debug] 10:15:10.300 Render post: 2014/04/30/gen_server_reply/
+[debug] 10:15:10.301 Render post: 2014/04/29/sip/
+[debug] 10:15:10.303 Render post: 2014/04/29/hello-world/
+[debug] 10:15:10.304 Render tag: tags/erlang/
+[debug] 10:15:10.305 Render tag: tags/SIP/
+[error] 10:15:14.071 HexoError: Render failed: index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.129 HexoError: Render failed: about/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.184 HexoError: Render failed: 2014/04/30/gen_server_reply/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.234 HexoError: Render failed: 2014/04/29/sip/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.304 HexoError: Render failed: 2014/04/29/hello-world/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.379 HexoError: Render failed: tags/erlang/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.433 HexoError: Render failed: tags/SIP/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+[debug] 10:15:07.869 Config file loaded
+[debug] 10:15:07.878 Version info checked successfully
+[debug] 10:15:08.144 Script load successfully: fancybox.js
+[debug] 10:15:08.661 Processed: Gruntfile.js
+[debug] 10:15:08.661 Processed: LICENSE
+[debug] 10:15:08.662 Processed: README.md
+[debug] 10:15:08.662 Processed: package.json
+[debug] 10:15:08.664 Processed: scripts/fancybox.js
+[debug] 10:15:08.783 Processed: source/css/_extend.styl
+[debug] 10:15:08.784 Processed: source/css/_variables.styl
+[debug] 10:15:08.785 Processed: source/css/_partial/about-me.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/archive.styl
+[debug] 10:15:08.786 Processed: source/css/_partial/article.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/bottom-btn.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/calendar.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/comment.styl
+[debug] 10:15:08.787 Processed: source/css/_partial/footer.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/header.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/highlight.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/mobile.styl
+[debug] 10:15:08.788 Processed: source/css/_partial/scrollbar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-aside.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar-bottom.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/sidebar.styl
+[debug] 10:15:08.789 Processed: source/css/_partial/toc.styl
+[debug] 10:15:08.790 Processed: source/css/_util/grid.styl
+[debug] 10:15:08.790 Processed: source/css/_util/mixin.styl
+[debug] 10:15:08.859 Processed: source/404.html
+[debug] 10:15:08.862 Processed: source/images/github.jpg
+[debug] 10:15:08.864 Processed: source/js/gotop.js
+[debug] 10:15:08.871 Processed: source/js/jquery.min.js
+[debug] 10:15:08.873 Processed: source/js/script.js
+[debug] 10:15:08.876 Processed: source/js/toc_aside_toggle.js
+[debug] 10:15:08.879 Processed: source/css/style.styl
+[debug] 10:15:08.881 Processed: source/css/fonts/FontAwesome.otf
+[debug] 10:15:08.883 Processed: source/css/fonts/fontawesome-webfont.eot
+[debug] 10:15:08.926 Processed: source/css/fonts/fontawesome-webfont.svg
+[debug] 10:15:08.930 Processed: source/css/fonts/fontawesome-webfont.ttf
+[debug] 10:15:08.933 Processed: source/css/fonts/fontawesome-webfont.woff
+[debug] 10:15:08.936 Processed: source/css/images/banner.jpg
+[debug] 10:15:08.938 Processed: source/css/images/bg.png
+[debug] 10:15:08.942 Processed: source/fancybox/blank.gif
+[debug] 10:15:08.945 Processed: source/fancybox/fancybox_loading.gif
+[debug] 10:15:08.949 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 10:15:08.952 Processed: source/fancybox/fancybox_overlay.png
+[debug] 10:15:08.955 Processed: source/fancybox/fancybox_sprite.png
+[debug] 10:15:08.994 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 10:15:08.998 Processed: source/fancybox/jquery.fancybox.css
+[debug] 10:15:09.002 Processed: source/fancybox/jquery.fancybox.js
+[debug] 10:15:09.007 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 10:15:09.011 Processed: source/fancybox/helpers/fancybox_buttons.png
+[debug] 10:15:09.015 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
+[debug] 10:15:09.018 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
+[debug] 10:15:09.022 Processed: source/fancybox/helpers/jquery.fancybox-media.js
+[debug] 10:15:09.026 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
+[debug] 10:15:09.073 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
+[debug] 10:15:09.214 Theme config loaded
+[debug] 10:15:09.214 Processed: _config.yml
+[debug] 10:15:09.217 Processed: languages/default.yml
+[debug] 10:15:09.712 Processed: languages/zh-CN.yml
+[debug] 10:15:09.716 Processed: languages/zh-TW.yml
+[debug] 10:15:10.143 Processed: about/index.md
+[debug] 10:15:10.145 Processed: layout/category.ejs
+[debug] 10:15:10.145 Processed: layout/archive.ejs
+[debug] 10:15:10.146 Processed: layout/index.ejs
+[debug] 10:15:10.147 Processed: layout/layout.ejs
+[debug] 10:15:10.148 Processed: layout/page.ejs
+[debug] 10:15:10.148 Processed: layout/post.ejs
+[debug] 10:15:10.149 Processed: layout/tag.ejs
+[debug] 10:15:10.149 Processed: layout/_widget/about_me.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/calendar.ejs
+[debug] 10:15:10.150 Processed: layout/_widget/archive.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/duoshuo_recent_comments.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/links.ejs
+[debug] 10:15:10.151 Processed: layout/_widget/tag.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/recent_posts.ejs
+[debug] 10:15:10.152 Processed: layout/_widget/tagcloud.ejs
+[debug] 10:15:10.152 Processed: layout/_partial/archive-post.ejs
+[debug] 10:15:10.153 Processed: layout/_partial/after-footer.ejs
+[debug] 10:15:10.155 Processed: layout/_widget/category.ejs
+[debug] 10:15:10.156 Processed: layout/_partial/article.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/archive.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/footer.ejs
+[debug] 10:15:10.157 Processed: layout/_partial/bottom-btn.ejs
+[debug] 10:15:10.159 Processed: layout/_partial/google-analytics.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/head.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/header.ejs
+[debug] 10:15:10.160 Processed: layout/_partial/mobile-nav.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/sidebar.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/category.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/date.ejs
+[debug] 10:15:10.161 Processed: layout/_partial/post/nav.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/gallery.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/tag.ejs
+[debug] 10:15:10.162 Processed: layout/_partial/post/title.ejs
+[debug] 10:15:10.163 Processed: _posts/gen_server_reply.md
+[debug] 10:15:10.163 Processed: _posts/hello-world.md
+[debug] 10:15:10.164 Processed: _posts/sip.md
+[info] 10:15:10.257 Files loaded in 2.105s
+[debug] 10:15:10.279 Public folder not exists. No need to clear public folder.
+[debug] 10:15:10.282 Render archive: archives/
+[debug] 10:15:10.294 Render archive: archives/2014/
+[debug] 10:15:10.295 Cache saved
+[debug] 10:15:10.295 Render archive: archives/2014/04/
+[debug] 10:15:10.296 Render index: 
+[debug] 10:15:10.297 Render page: about/index.html
+[debug] 10:15:10.300 Render post: 2014/04/30/gen_server_reply/
+[debug] 10:15:10.301 Render post: 2014/04/29/sip/
+[debug] 10:15:10.303 Render post: 2014/04/29/hello-world/
+[debug] 10:15:10.304 Render tag: tags/erlang/
+[debug] 10:15:10.305 Render tag: tags/SIP/
+[error] 10:15:14.071 HexoError: Render failed: index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.129 HexoError: Render failed: about/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.184 HexoError: Render failed: 2014/04/30/gen_server_reply/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.234 HexoError: Render failed: 2014/04/29/sip/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.304 HexoError: Render failed: 2014/04/29/hello-world/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.379 HexoError: Render failed: tags/erlang/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)
+
+[error] 10:15:14.433 HexoError: Render failed: tags/SIP/index.html
+ReferenceError: C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\layout.ejs:9
+    7|         <section id="main"><%- body %></section>
+    8|         <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
+ >> 9|           <%- partial('_partial/sidebar') %>
+    10|         <% } %>
+    11|       </div>
+    12|       <%- partial('_partial/footer') %>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_partial\sidebar.ejs:12
+    10| <% } else { %>
+    11|   <% theme.widgets.forEach(function(widget){ %>
+ >> 12|     <%- partial('_widget/' + widget) %>
+    13|   <% }) %>
+    14| <% } %>
+    15| </aside>
+
+C:\Users\ezhoden\Documents\GitHub\zhongwencool.github.io\themes\landscape-f\layout\_widget\calendar.ejs:73
+    71|         var postdate = new Date("<%= page.date %>"); 
+    72| 		if (postdate.getFullYear() == year && postdate.getMonth() == month) { 
+ >> 73| 			html += '<%- current_month_calendar() %>';
+    74| 		} else {
+    75| 			for(var j=0;j<final_date;j++){        
+    76| 				html+='<span id="d'+(j+1)+'">'+(j+1)+'</span>';
+
+current_month_calendar is not defined
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:3100)
+    at eval (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:5599)
+    at C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:255:15
+    at Object.exports.render (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:293:13)
+    at module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\renderer\ejs.js:5:14)
+    at Object.exports.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\core\render.js:133:12)
+    at View.renderSync (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\theme\view.js:183:28)
+    at Object.module.exports (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\lib\plugins\helper\partial.js:19:17)
+    at __stack.lineno (eval at <anonymous> (C:\Users\ezhoden\AppData\Roaming\npm\node_modules\hexo\node_modules\ejs\lib\ejs.js:242:14), <anonymous>:29:719)
+    at Array.forEach (native)

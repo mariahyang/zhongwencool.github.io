@@ -1,0 +1,53 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+  Todo: /todolist
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Scroll to top
+go_top: true
+
+# duoshuo
+duoshuo_shortname: 
+
+# baidu share
+baidushare: true
+
+# blogroll
+links:
+- name: 404 page
+  link: http://yibo.iyiyun.com/js/yibo404/key/1
+
+# about me
+about_me:
+  title: ABOUT ME
+  gravatar: a@abc.com
+  avatar: /images/github.jpg
+  texts:
+  - Hi,I'm howiefh.
+
+# display updated
+display_updated: true
