@@ -35,7 +35,7 @@ img{
 }
 .footer {
     position:absolute;
-    bottom:1%;
+    bottom:0%;
     right:30%;
     height: 8em;
 }
@@ -56,8 +56,8 @@ img{
     position: absolute;
     bottom: 1%;
     right: 1%;
-    font-size:3.5rem;
-    line-height:1.1;
+    font-size:2.2rem;
+    line-height:1.2;
 }
 
 .clock:before,
@@ -67,7 +67,7 @@ img{
     bottom:0;
     content:':';
     z-index:2;
-    line-height:1.15;
+    line-height:0.95;
     color:#333;
 }
 
