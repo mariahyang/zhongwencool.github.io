@@ -1,7 +1,7 @@
 ---
-layout: page
+##layout: page
 title: 邓忠文
-##tagline: Supporting tagline
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
