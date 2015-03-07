@@ -5,14 +5,15 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Your Site Name
-host: yourdomain.com
-desc: Some description of your site.
+name: 某文
+host: http://zhongwencool.github.io/
+
+desc: Erlang
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        default: Erlang
+        another: erlang
     categories:
       - name:  default
         title: Default Category
@@ -24,11 +25,11 @@ custom:
 
 meta:
     author:
-        name: Your Name
-        email: your-email@example.com
+        name: 某文
+        email: i_am_zhongwen@qq.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
-        github: your-github-account                 # GitHub账号
+        github: https://github.com/zhongwencool                 # GitHub账号
         gravatar: 1cd8c12591616d8c22aaa624f8c07834  # Gravatar头像标识
 
     disqus: disqus.com/embed.js                     # Disqus评论的JS地址
